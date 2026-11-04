@@ -13,7 +13,7 @@ Engineering leader in Munich — former VP of Engineering and CTO, 20+ years in 
 
 | | |
 |---|---|
-| [**Snappy Loop**](https://vasiliy.pro/work/snappyloop.html) | AI language-learning product built and ran solo on an AI-native delivery model (2024–2026). 200 → 5,000 users in three months; load-tested at 20k RPS. |
+| [**Snappy Loop**](https://vasiliy.pro/work/snappyloop.html) | AI language-learning product, built and run solo on an AI-native delivery model in 2024–2026. 200 → 5,000 users in three months; load-tested at 20k RPS. |
 | [**Homeapp**](https://vasiliy.pro/work/homeapp.html) | As VP of Engineering, scaled engineering from 5 to ~40 people with product trios, Scrum, hiring and a Kubernetes platform. |
 | [**CHECK24**](https://vasiliy.pro/work/check24.html) | Led a six-month backend modernization and SRE transformation — bare metal to Kubernetes — recognized with the internal Best Client-Oriented Product award. |
 
